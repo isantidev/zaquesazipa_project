@@ -35,7 +35,7 @@ Follow these steps to get a local copy of the project up and running on your mac
 
 ### Prerequisites
 
-Make sure you have Node.js and npm installed on your computer.
+Make sure you have Node.js and pnpm installed on your computer.
 
 -   [Node.js](https://nodejs.org/) (version 20 or higher recommended)
 
@@ -51,12 +51,12 @@ Make sure you have Node.js and npm installed on your computer.
 2.  **Install dependencies**
 
     ```bash
-    npm install
+    pnpm install
     ```
 
 3.  **Start the development server**
     ```bash
-    npm run dev
+    pnpm run dev
     ```
     The app will open in your browser on [http://localhost:5173](http://localhost:5173). It will reload automatically when you make changes to the code.
 
@@ -64,10 +64,10 @@ Make sure you have Node.js and npm installed on your computer.
 
 In the project directory, you can run:
 
--   `npm run dev` - Runs the app in development mode with Vite's fast HMR.
--   `npm run build` - Builds the app for production to the `dist` folder.
--   `npm run preview` - Previews the production build locally.
--   `npm run lint` - Runs ESLint for code quality checking (if configured).
+-   `pnpm run dev` - Runs the app in development mode with Vite's fast HMR.
+-   `pnpm run build` - Builds the app for production to the `dist` folder.
+-   `pnpm run preview` - Previews the production build locally.
+-   `pnpm run lint` - Runs ESLint for code quality checking (if configured).
 
 ## 🎨 Customization
 
