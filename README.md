@@ -44,7 +44,7 @@ Make sure you have Node.js and pnpm installed on your computer.
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/iSantiDev/zaquesazipa_project.git
+    git clone https://github.com/isantidev/zaquesazipa_project.git
     cd zaquesazipa_project
     ```
 
@@ -75,7 +75,7 @@ The app's theme (colors, typography, etc.) is configured using MUI's Theme Provi
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/iSantiDev/zaquesazipa_project/issues) or fork the repo and submit a pull request.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/isantidev/zaquesazipa_project/issues) or fork the repo and submit a pull request.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -91,6 +91,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ### 📞 Contact
 
-Santiago - [@iSantiDev](https://github.com/iSantiDev) - [kevin-sierra-rodriguez](https://www.linkedin.com/in/kevin-sierra-rodriguez-7280b9284/)
+Santiago - [@isantidev](https://github.com/isantidev) - [kevin-sierra-rodriguez](https://www.linkedin.com/in/isantidev/)
 
-Project Link: [https://github.com/iSantiDev/zaquesazipa_project](https://github.com/iSantiDev/zaquesazipa_project)
+Project Link: [https://github.com/isantidev/zaquesazipa_project](https://github.com/isantidev/zaquesazipa_project)
